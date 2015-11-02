@@ -25,4 +25,4 @@ script:
 after_script:
   - cp README.md ./shippable
   
-#archive: true
+archive: true
