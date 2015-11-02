@@ -11,7 +11,7 @@ class Rethink():
     def populate(self):
         self.db.table_create('table').run()        
         things = [
-            {"name": "Vishnu"},
+            {"name": "Vishnu!!!!"},
             {"name": "Lakshmi"},
             {"name": "Ganesha"},
             {"name": "Krishna"},
